@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
 <!---
 al4evme/al4evme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
